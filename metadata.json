@@ -1,0 +1,6 @@
+{
+  "name": "Roblox VPN Premium",
+  "description": "تطبيق VPN لتجاوز حجب الألعاب في تركيا وتشغيل روبلوكس ببينغ منخفض واستجابة سريعة مجانا بالكامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+{
+  "short_name": "AtlasVPN",
+  "name": "أطلس VPN الرقمي - تحدي قيود روبلوكس",
+  "description": "تطبيق VPN مجاني لتجاوز حظر الألعاب وفتح روبلوكس بتركيا ببينغ منخفض واستجابة عالية",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6813/6813350.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050B18",
+  "theme_color": "#D4AF37",
+  "display": "standalone",
+  "orientation": "portrait"
+}
